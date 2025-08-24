@@ -92,6 +92,7 @@ npm run dev
 ```
 
 Aplikasi backend akan jalan di [http://localhost:8080](http://localhost:8080) 
+
 Frontend (Next.js) akan jalan di [http://localhost:3000](http://localhost:3000)
 
 ## Catatan
